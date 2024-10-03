@@ -1,4 +1,5 @@
-Use the war and peace text file and write the following
-programs on letter frequency.
-a) Write a program to find and print frequency of letters in the text.
-b) Write a program to find and print frequency of letters at the end of each word in the text.
+# Overview
+This project consists of two Python programs that analyze the frequency of letters in the text . The primary objectives are:
+
+To find and print the frequency of each letter in the entire text.
+To find and print the frequency of letters that appear at the end of each word in the text.
